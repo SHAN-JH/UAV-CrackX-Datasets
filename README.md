@@ -61,7 +61,7 @@ You may also refer to our related studies on UAV-based pavement crack segmentati
 >   *Expert Systems with Applications*, vol. 264, p. 125891, Mar. 2025.  
 >   DOI: [10.1016/j.eswa.2024.125891](https://doi.org/10.1016/j.eswa.2024.125891)
 >
-![img_1.png](img_2.png)
+![img_1.png](img_1.png)
 ![img.png](img.png)
 
 ---
