@@ -5,8 +5,7 @@ The detailed data acquisition and processing procedures can be found in our IEEE
 > [**Unmanned Aerial Vehicle (UAV)-Based Pavement Image Stitching Without Occlusion, Crack Semantic Segmentation, and Quantification**](https://doi.org/10.1109/TITS.2024.3424525)
 > *IEEE Transactions on Intelligent Transportation Systems*, vol. 25, no. 11, pp. 17038–17053, Nov. 2024. 
 ---
-![img_2.png](img_2.png)
-![img.png](img.png)
+
 ## 📘 About
 
 The **public dataset** contains **1,500 UAV road images**, including:  
@@ -62,7 +61,8 @@ You may also refer to our related studies on UAV-based pavement crack segmentati
 >   *Expert Systems with Applications*, vol. 264, p. 125891, Mar. 2025.  
 >   DOI: [10.1016/j.eswa.2024.125891](https://doi.org/10.1016/j.eswa.2024.125891)
 >
-
+![img_1.png](img_2.png)
+![img.png](img.png)
 
 ---
 
