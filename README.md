@@ -1,11 +1,12 @@
-# UAV-CrackX
+# UAV-CrackX Datasets
 
 This dataset is a **UAV-based pavement crack semantic segmentation dataset** captured at a flying altitude of **50 m** with **different magnification levels**.  
 The detailed data acquisition and processing procedures can be found in our IEEE Transactions on Intelligent Transportation Systems paper:  
 > [**Unmanned Aerial Vehicle (UAV)-Based Pavement Image Stitching Without Occlusion, Crack Semantic Segmentation, and Quantification**](https://doi.org/10.1109/TITS.2024.3424525)
 > *IEEE Transactions on Intelligent Transportation Systems*, vol. 25, no. 11, pp. 17038–17053, Nov. 2024. 
 ---
-
+![img_2.png](img_2.png)
+![img.png](img.png)
 ## 📘 About
 
 The **public dataset** contains **1,500 UAV road images**, including:  
