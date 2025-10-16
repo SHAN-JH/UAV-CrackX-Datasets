@@ -4,6 +4,7 @@ This dataset is a **UAV-based pavement crack semantic segmentation dataset** cap
 The detailed data acquisition and processing procedures can be found in our IEEE Transactions on Intelligent Transportation Systems paper:  
 > [**Unmanned Aerial Vehicle (UAV)-Based Pavement Image Stitching Without Occlusion, Crack Semantic Segmentation, and Quantification**](https://doi.org/10.1109/TITS.2024.3424525)
 > *IEEE Transactions on Intelligent Transportation Systems*, vol. 25, no. 11, pp. 17038–17053, Nov. 2024. 
+> ![img_4.png](resources/img_4.png)
 ---
 
 ## 📘 About
@@ -16,7 +17,7 @@ The **public dataset** contains **1,500 UAV road images**, including:
 A detailed dataset description is available in our paper published in *Automation in Construction*:  
 > [**Bridging Cross-Domain and Cross-Resolution Gaps for UAV-Based Pavement Crack Segmentation**](https://doi.org/10.1016/j.autcon.2025.106141)  
 > *Automation in Construction*, vol. 174, p. 106141, 2025.
-
+![img_3.png](resources/img_3.png)
 We also release **1,200 annotated images** (400 for each magnification level).  
 The annotations are grayscale masks, where:  
 - `0` = pavement  
@@ -56,13 +57,14 @@ You may also refer to our related studies on UAV-based pavement crack segmentati
 > - Shan Jinhuan, *et al.*, “**GLoU-MiT: Lightweight Global-Local Mamba-Guided U-Mix Transformer for UAV-Based Pavement Crack Segmentation**,”  
 >   *Advanced Engineering Informatics*, vol. 65, p. 103384, May 2025.  
 >   DOI: [10.1016/j.aei.2025.103384](https://doi.org/10.1016/j.aei.2025.103384)
+>   ![img_5.png](resources/img_5.png)
 
 > - Shan Jinhuan, *et al.*, “**DCUFormer: Enhancing Pavement Crack Segmentation in Complex Environments with Dual-Cross/Upsampling Attention**,”  
 >   *Expert Systems with Applications*, vol. 264, p. 125891, Mar. 2025.  
 >   DOI: [10.1016/j.eswa.2024.125891](https://doi.org/10.1016/j.eswa.2024.125891)
+>   ![img.png](resources/img.png)
 >
-![img_1.png](img_1.png)
-![img.png](img.png)
+
 
 ---
 
