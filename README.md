@@ -16,6 +16,7 @@ The **public dataset** contains **1,500 UAV road images**, including:
 A detailed dataset description is available in our paper published in *Automation in Construction*:  
 > [**Bridging Cross-Domain and Cross-Resolution Gaps for UAV-Based Pavement Crack Segmentation**](https://doi.org/10.1016/j.autcon.2025.106141)  
 > *Automation in Construction*, vol. 174, p. 106141, 2025.
+> 
 > <img alt="img_3" src="resources/img_3.png" width="50%"/>
 > 
 We also release **1,200 annotated images** (400 for each magnification level).  
@@ -57,13 +58,16 @@ You may also refer to our related studies on UAV-based pavement crack segmentati
 > - Shan Jinhuan, *et al.*, “**GLoU-MiT: Lightweight Global-Local Mamba-Guided U-Mix Transformer for UAV-Based Pavement Crack Segmentation**,”  
 >   *Advanced Engineering Informatics*, vol. 65, p. 103384, May 2025.  
 >   DOI: [10.1016/j.aei.2025.103384](https://doi.org/10.1016/j.aei.2025.103384)
+>
 >   <img src="resources/img_5.png" alt="img_5" width="50%">
+
 
 > - Shan Jinhuan, *et al.*, “**DCUFormer: Enhancing Pavement Crack Segmentation in Complex Environments with Dual-Cross/Upsampling Attention**,”  
 >   *Expert Systems with Applications*, vol. 264, p. 125891, Mar. 2025.  
 >   DOI: [10.1016/j.eswa.2024.125891](https://doi.org/10.1016/j.eswa.2024.125891)
->   <img src="resources/img.png" alt="img" width="50%">
 >
+>   <img src="resources/img.png" alt="img" width="50%">
+
 
 
 ---
